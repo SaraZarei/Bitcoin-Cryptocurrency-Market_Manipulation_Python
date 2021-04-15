@@ -1,5 +1,7 @@
 # Bitcoin-Cryptocurrency-Market_Manipulation_Python
-### Insights that were achieved from dataset
+## Project Description 
+- To better understand the growth and impact of Bitcoin and other cryptocurrencies, in this project, explore the market capitalization of different cryptocurrencies.
+## Insights that were achieved from dataset
 - Discard the cryptocurrencies without a market capitalization
 - How big is Bitcoin compared with the rest of the cryptocurrencies?
 - Volatility in cryptocurrencies
